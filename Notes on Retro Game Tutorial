@@ -6,3 +6,11 @@ Observed some notes on organizing the set up for a game
 possiblity for timer
 (Retro Game Tutorial Part 2)
 
+I plan to use the paddle example to creat multiple levels 
+of paddles that move to replicate the early 2000s game Icy Tower
+
+I would use something similar to the draw ball to draw my character 
+(first rendition might just be a ball or shape to keep simple 
+and make sure the program runs smooth)
+
+
